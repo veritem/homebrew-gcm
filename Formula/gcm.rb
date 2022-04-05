@@ -9,6 +9,6 @@ class Gcm < Formula
   license "MIT"
 
   def install
-    bin install "gcm"
+    bin.install "gcm"
   end
 end
